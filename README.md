@@ -2,7 +2,7 @@
 A web scraper for the NYT Mini Leaderboard
 ## Data Format
 The CSV returns the following data (at time of scraping): Position, Name, Time, and Time in seconds\
-If a player has yet to complete the crossword, the time and time in seconds will be output as "--" and the position will be "�"
+If a player has yet to complete the crossword, the time and time in seconds will be output as "--" and the position will be "�"\
 [leaderboard.csv](https://github.com/powalll/New-York-Times-Crossword-Leaderboard-Scraper/files/7835980/leaderboard.csv)
 
 | Position      | Name          | Time     | Time in seconds |
