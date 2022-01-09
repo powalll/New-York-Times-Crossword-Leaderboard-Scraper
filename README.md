@@ -36,4 +36,4 @@ headers = {
 }
 ```
 <img width="344" alt="nyt crossword leaderboard screenshot" src="https://user-images.githubusercontent.com/67936152/148703808-3c758759-712f-4f26-9cca-db25f56908ef.png">
-
+To run the script, run: `python nytscraper.py`
